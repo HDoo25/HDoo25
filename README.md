@@ -1,16 +1,17 @@
-## Hi there 👋
+### About Me
 
-<!--
-**HDoo25/HDoo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Senior Computer Science student focused on data analytics and business insights (Class of 2027)
+- 📊 Currently building analytics projects with Python, SQL, and Power BI
+- 🌏 Language learner and global-minded — always curious about people, patterns, and perspectives
+- 🚀 Currently seeking a Data Analyst Internship (Summer 2026)
 
-Here are some ideas to get you started:
+***
+### Tools & Tech
+- Excel
+- SQL Server
+- Python (pandas, NumPy)
+- PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+### Project
+-> [Customer Churn Analysis](https://github.com/HDoo25/Customer-Churn-Insight-Dashboard)
