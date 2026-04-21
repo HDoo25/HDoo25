@@ -4,7 +4,7 @@
 ***
 ### Tools & Tech
 - Excel
-- SQL Server
+- SQL Server Mangement Studio (SSMS)
 - Python (pandas, NumPy)
 - PowerBI
 
